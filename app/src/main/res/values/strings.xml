@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">My1</string>
+    <string name="hello">Hello</string>
+    <string name="name">Name</string>
+    <string name="enter">enter</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="hint">hint</string>
+    <string name="text">Text</string>
+    <string name="textpersonname">textPersonName</string>
+    <string name="phone">phone</string>
+    <string name="number">number</string>
+    <string name="textpassword">textPassword</string>
+    <string name="textemailaddress">textEmailAddress</string>
 </resources>
